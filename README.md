@@ -2,7 +2,7 @@
 
 *Do universo de **Mundos Através da Neblina**, de Rafael M. Piergiorge.*
 
-Um jogo de terror point-and-click em pixel art, em cinco capítulos.
+Um jogo de terror e fantasia point-and-click em pixel art, em cinco capítulos.
 
 **▶ Jogar no navegador:** https://piergiorge.github.io/nas-profundezas-do-abismo/
 
@@ -47,6 +47,6 @@ O jogo é um único arquivo: basta abrir `index.html` no navegador. Ele precisa 
 
 *From the world of **Mundos Através da Neblina**, by Rafael M. Piergiorge.*
 
-A pixel-art point-and-click horror game in five chapters. Brazil, 1975: a geologist, an offshore platform, a stone that should not exist, and a beach everyone dreams of.
+A pixel-art point-and-click fantasy and horror game in five chapters. Brazil, 1975: a geologist, an offshore platform, a stone that should not exist, and a beach everyone dreams of.
 
 Available in Portuguese and English. Script, art, sound and code were developed with AI assistance (Claude, by Anthropic) under the author's direction.
